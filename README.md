@@ -14,3 +14,6 @@ As We Know Time Does Not Exist Brother.'''
 '''Add Some More New Features Such As Motivational Quotes.'''
 #Tony stark
 '''Iam iron man and i am inevitable.'''
+
+# mgc premier requests
+Accept my
